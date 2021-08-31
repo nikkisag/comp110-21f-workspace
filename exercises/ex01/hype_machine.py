@@ -1,5 +1,10 @@
-# TODO: Write docstring here
+"""COMP110 Affirmations to get me through the day"""
 
-# TODO: Initialize __author__ variable here
+__author__ = "730444135"
 
-# TODO: Implement your program logic here
+name: str = input("What is your name? ")
+print("You entered: ")
+print(name)
+print(name + ", you're doing amazing sweetie.")
+print("You can code, " + name + ".")
+print("Yes, that's right, " + name + ", you're smart.")
