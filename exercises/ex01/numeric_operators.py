@@ -1,4 +1,4 @@
-"""Numbers in Python that Suprisingly Didn't Make Me Cry"""
+"""Numbers in python that suprisingly didn't make me cry."""
 
 __author__ = "730444135"
 

@@ -1,4 +1,4 @@
-"""COMP110 Affirmations to get me through the day"""
+"""COMP110 affirmations to get me through the day."""
 
 __author__ = "730444135"
 

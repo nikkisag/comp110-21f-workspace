@@ -1,4 +1,4 @@
-""" Relational Operators I Must Undertake Completely Alone"""
+"""Relational operators I must undertake completely alone."""
 
 __author__ = "730444135"
 
